@@ -45,6 +45,9 @@ let () =
 
 ### Built with
 
+- OCaml version: 4.06.0
+- Core version: v0.10.0
+
 ```
 corebuild -pkg cryptokit basic_cmd.native
 ```
