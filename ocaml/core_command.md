@@ -1,6 +1,12 @@
 
 # Core.Command
 
+## Status: Resolved
+
+> In the new (0.10) version, what were basic and basic’ have been switched to basic_spec and basic. So you can make your old code work as it was by changing Command.basic into Command.basic_spec. 
+
+> Ref: [Core.Command v.0.10?](https://discuss.ocaml.org/t/core-command-v-0-10/1357)
+
 ## Date: 08 Jan 2018
 
 ### Error
